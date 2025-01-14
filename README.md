@@ -1,1 +1,1 @@
-# SOC-Splunk-Simulator-Tryhackme-
+# SOC-Splunk-Simulator-Tryhackme
